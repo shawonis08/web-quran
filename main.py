@@ -8,6 +8,8 @@ html_doc = urllib.request.urlopen(parsing_page)
 
 soup = BeautifulSoup(html_doc, 'html.parser')
 
-title = soup.find_all('tittle')
+title = soup.find('title')
+t = title.text
+print(t)
 # with open("output.html", "w",encoding="utf-8") as file:
 #     file.write(str(soup.prettify()))
