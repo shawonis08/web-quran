@@ -1,0 +1,16 @@
+[<div class="span7">
+<h2 style="text-align:center;">সুরা নাস</h2>
+<div style="border-top:1px solid gray;border-bottom:1px solid gray;min-height:0.2em;text-align:center;"></div>
+</div>, <div class="span7"><div class="arabic">بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ</div>
+<div class="bangla">বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার, [ <a href="1/">সুরা নাস ১১৪:১</a> ]</div>
+<div class="arabic">مَلِكِ النَّاسِ</div>
+<div class="bangla">মানুষের অধিপতির, [ <a href="2/">সুরা নাস ১১৪:২</a> ]</div>
+<div class="arabic">إِلَهِ النَّاسِ</div>
+<div class="bangla">মানুষের মা'বুদের [ <a href="3/">সুরা নাস ১১৪:৩</a> ]</div>
+<div class="arabic">مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ</div>
+<div class="bangla">তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে, [ <a href="4/">সুরা নাস ১১৪:৪</a> ]</div>
+<div class="arabic">الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ</div>
+<div class="bangla">যে কুমন্ত্রণা দেয় মানুষের অন্তরে [ <a href="5/">সুরা নাস ১১৪:৫</a> ]</div>
+<div class="arabic">مِنَ الْجِنَّةِ وَ النَّاسِ</div>
+<div class="bangla">জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে। [ <a href="6/">সুরা নাস ১১৪:৬</a> ]</div>
+</div>]
