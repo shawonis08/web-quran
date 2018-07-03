@@ -1,8 +1,8 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-for a in range(116):
-    parsing_page = 'https://habibur.com/quran/%d'%(a+1)
+for a in range(3, 4):
+    parsing_page = 'https://habibur.com/quran/%d' % (a + 1)
 
     print(parsing_page)
 
@@ -14,6 +14,5 @@ for a in range(116):
     b2 = soup.find_all("div", class_="row-fluid")
     b3 = soup.find_all("div", class_="span7")
 
-    with open("index.html", "a+", encoding="utf-8") as file:
+    with open("test.html", "a+", encoding="utf-8") as file:
         file.write(str(b3))
-
